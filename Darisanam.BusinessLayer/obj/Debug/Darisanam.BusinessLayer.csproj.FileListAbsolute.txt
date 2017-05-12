@@ -1,0 +1,5 @@
+F:\Darisanam\Darisanam.Web\Darisanam.BusinessLayer\bin\Debug\Darisanam.BusinessLayer.dll
+F:\Darisanam\Darisanam.Web\Darisanam.BusinessLayer\bin\Debug\Darisanam.BusinessLayer.pdb
+F:\Darisanam\Darisanam.Web\Darisanam.BusinessLayer\obj\Debug\Darisanam.BusinessLayer.csprojResolveAssemblyReference.cache
+F:\Darisanam\Darisanam.Web\Darisanam.BusinessLayer\obj\Debug\Darisanam.BusinessLayer.dll
+F:\Darisanam\Darisanam.Web\Darisanam.BusinessLayer\obj\Debug\Darisanam.BusinessLayer.pdb

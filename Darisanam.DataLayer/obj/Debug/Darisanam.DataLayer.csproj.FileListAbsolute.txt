@@ -1,0 +1,14 @@
+F:\Darisanam\Darisanam.Web\Darisanam.DataLayer\obj\Debug\Darisanam.DataLayer.csprojResolveAssemblyReference.cache
+F:\Darisanam\Darisanam.Web\Darisanam.DataLayer\bin\Debug\Darisanam.DataLayer.dll.config
+F:\Darisanam\Darisanam.Web\Darisanam.DataLayer\bin\Debug\Darisanam.DataLayer.dll
+F:\Darisanam\Darisanam.Web\Darisanam.DataLayer\bin\Debug\Darisanam.DataLayer.pdb
+F:\Darisanam\Darisanam.Web\Darisanam.DataLayer\bin\Debug\EntityFramework.dll
+F:\Darisanam\Darisanam.Web\Darisanam.DataLayer\bin\Debug\EntityFramework.SqlServer.dll
+F:\Darisanam\Darisanam.Web\Darisanam.DataLayer\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+F:\Darisanam\Darisanam.Web\Darisanam.DataLayer\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\Darisanam\Darisanam.Web\Darisanam.DataLayer\bin\Debug\EntityFramework.xml
+F:\Darisanam\Darisanam.Web\Darisanam.DataLayer\bin\Debug\EntityFramework.SqlServer.xml
+F:\Darisanam\Darisanam.Web\Darisanam.DataLayer\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+F:\Darisanam\Darisanam.Web\Darisanam.DataLayer\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\Darisanam\Darisanam.Web\Darisanam.DataLayer\obj\Debug\Darisanam.DataLayer.dll
+F:\Darisanam\Darisanam.Web\Darisanam.DataLayer\obj\Debug\Darisanam.DataLayer.pdb
